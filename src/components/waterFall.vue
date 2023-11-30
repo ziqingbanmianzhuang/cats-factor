@@ -84,12 +84,12 @@ export default {
 }
 
 .container {
-    height: calc(100vh - 230px);
+    height: calc(100vh - 150px);
     margin: 0 auto;
     width: 98vw;
     overflow-x: hidden;
     overflow-y: auto;
-    transform: translateY(100px);
+    transform: translateY(15px);
 }
 
 .waterfalls {
@@ -99,7 +99,7 @@ export default {
     background-color: transparent;
     /* //每列每个元素最小的宽度 */
     /* columns: 100px; */
-    columns: 200px;
+    columns: 160px;
     /* 每列的距离 */
     column-gap: 20px;
 

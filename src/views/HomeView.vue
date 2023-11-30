@@ -30,12 +30,10 @@
       <div class="intro">
         <div class="text-box">
           <h3>a home for your company video</h3>
-          <p> Cats are a particularly cute animal with the following significant characteristics:
-            Noble and sensitive: Cats' sensory organs are extremely well-developed, allowing them to sense changes in the
-            surrounding environment sensitively.
-
-            Independent: Although cats require human care, they still maintain a certain degree of independence and
-            autonomy.</p>
+          <p> Our lovely little friend-Cat:Cats are cute animals, usually with soft fur and flexible bodies. They have
+            large, bright eyes and pointed ears. Cats are agile and lively and like to play and chase toys. They are
+            usually very independent, but also enjoy interacting with humans. Cats are one of the most common pets that
+            bring people happiness and companionship..</p>
         </div>
         <div class="img-box">
           <img src="../assets/home-7.jpg" alt="">
@@ -65,20 +63,24 @@
       <h3>video message features</h3>
       <ul>
         <li>
-          <h4>one</h4>
+          <h4> 1.flexible body:</h4>
+          <p>Cats have soft bodies and agile movements, allowing them to quickly catch prey and climb</p>
+        </li>
+        <li>
+          <h4>2.Sharp senses:</h4>
           <p>tomorawo is creatues in the wousan kietens builds a lisfhti sdk</p>
         </li>
         <li>
-          <h4>one</h4>
-          <p>tomorawo is creatues in the wousan kietens builds a lisfhti sdk</p>
+          <h4>3.Independent and autonomous:</h4>
+          <p>
+            Cats usually display an independent personality and like to move alone, but they
+            can
+            also form close relationships with humans.</p>
         </li>
         <li>
-          <h4>one</h4>
-          <p>tomorawo is creatues in the wousan kietens builds a lisfhti sdk</p>
-        </li>
-        <li>
-          <h4>one</h4>
-          <p>tomorawo is creatues in the wousan kietens builds a lisfhti sdk</p>
+          <h4> 4.Strong adaptability: </h4>
+          <p> Cats can adapt to various environments, ranging from household pets to urban stray cats,
+            and can survive and reproduce.</p>
         </li>
       </ul>
     </section>
@@ -321,5 +323,6 @@ export default {
 
 .main-side-box ul li {
   text-align: left;
+  padding: 10px;
 }
 </style>

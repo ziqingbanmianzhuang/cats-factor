@@ -11,27 +11,39 @@
 " alt=""></a>
       <a href="https://v3.router.vuejs.org/zh/installation.html"><img src="https://img.shields.io/badge/vueRouter-%5E4.0.3-pink
 " alt=""></a>
-      <a href="">axios</a>
+      <a href="https://www.axios-http.cn/docs/example">
+        <img src="https://img.shields.io/badge/axios-1.6.2-black
+" alt="">
+      </a>
     </side>
     <main class="features-box">
       <div>
         <h2>Developer 1</h2>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p>My name is Zhang Li. Cats are one of my favorite animals. There are many stray cats in our school. They often
+          comfort me when I am frustrated. This world cannot be without cats. This is our common home.</p>
       </div>
       <div>
         <h2>Developer 1</h2>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p>My name is Jin Yan. I also like cats very much. Every time I see their cute faces, I am encouraged that cats
+          are our partners and we should protect them and love them.</p>
       </div>
     </main>
     <footer>
       <ul>
         <li>
           <h1>Email</h1>
-          <p>17292371124@qq.com</p>
+          <p>17292371124@qq.com<br>
+            3351858214@qq.com<br>
+            1290924026@qq.com
+          </p>
         </li>
         <li>
           <h1>Phone:</h1>
-          <p>18608263452</p>
+          <p>18608263452<br>
+            14708271028<br>
+            17381144397
+
+          </p>
         </li>
         <li>
           <h1>Address:</h1>
