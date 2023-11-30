@@ -1,15 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <nav-page></nav-page>
+  <router-view />
 </template>
-
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// @ is an alias to /src
+import navPage from './components/navPage.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    navPage
   }
 }
 </script>
@@ -21,6 +21,18 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  overflow: scroll;
+  scroll-behavior: smooth;
+}
+
+#app::-webkit-scrollbar {
+  display: none;
+  width: 0px;
+  background-color: transparent;
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
 </style>
